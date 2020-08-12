@@ -1,0 +1,5 @@
+name = "Watershed"
+
+[deps]
+DataStructures  = "0.17"
+StatsBase       = "0.33"
